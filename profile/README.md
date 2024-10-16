@@ -1,6 +1,6 @@
-# Open Payments
-
-![Open Payments Logo](logo-white.png)
+<p align="center">
+  <img src="logo-white.png" />
+</p>
 
 **Open Payments** is an open-source initiative dedicated to building the essential components for a modern payment processing engine for banks and financial institutions. Our goal is to provide tools that help simplify financial messaging, enhance interoperability, and promote innovation in the payment industry.
 
